@@ -5,7 +5,9 @@ Projekt jest poglądową wersją offline tego jak mogłaby wyglądać aplikacja 
 Aplikacja została napisana w składzie dwuosobowym. 
 
 Aby zalogować się do panelu pracownika, należy podać następujące informacje przy logowaniu:
-login: abc@biblioteka.pl <br> hasło: 123
+
+login: abc@biblioteka.pl <br>
+hasło: 123
 
 Aby zalogować się jako użytkownik, można przejrzeć w folderze ,,DataBase" dane użytkowników lub
 założyć swoje konto w zakładce ,,rejestracja".
