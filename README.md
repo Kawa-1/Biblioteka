@@ -1,6 +1,6 @@
 <h3>Witamy w bibliotece!</h3>
 
-Jest to mój pierwszy projekt napisany w języku JAVA. Aby program działał poprawnie należy zainstalować odpowiednie kolekcje (<b>commons-io-2.8.0</b> oraz <b>commons-lang3-3.11</b>) i dodać je do swojego IDE.
+Jest to mój pierwszy projekt napisany w języku JAVA. Aby program działał poprawnie należy zainstalować odpowiednie kolekcje (<b>commons-io-2.8.0</b> oraz <b>commons-lang3-3.11</b>).
 Projekt jest poglądową wersją offline tego jak mogłaby wyglądać aplikacja biblioteki.
 Aplikacja została napisana w składzie dwuosobowym. 
 
